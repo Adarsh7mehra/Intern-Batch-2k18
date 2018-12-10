@@ -1,0 +1,15 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+x = np.linspace(0,3*np.pi,33)
+
+sin = np.sin(x)
+cos = np.cos(x)
+
+
+plt.plot(x,sin,'bo:')
+plt.plot(x,cos,'go-.')
+
+
+plt.show()

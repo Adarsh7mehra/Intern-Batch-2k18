@@ -1,0 +1,9 @@
+print("My program name",__name__)
+name = input("Your name Please: ")
+print("Welcome User",name,"to the world of Python")
+
+x = input("X = ") #string input
+x = eval(x) #type converted into str -->int
+y = eval(input("Y = "))
+
+print("X + Y ",x+y)

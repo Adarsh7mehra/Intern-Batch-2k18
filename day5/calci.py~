@@ -1,0 +1,8 @@
+print("Hello !")
+x=eval(input("Enter the 1st no.: "))
+y=eval(input("Enter the 2nd no.: "))
+print("Sum = ",x+y)
+print("Difference= ",x-y)
+print("Multiplication= ",x*y)
+print("Division= ",x/y)
+print("Bye !")

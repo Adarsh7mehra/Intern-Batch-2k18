@@ -1,0 +1,5 @@
+This folder is for internship batch started at 3rd december.
+
+In this we will learn about Python, Data Science, Database, Machine Learning,
+big data, linux
+)
